@@ -1,5 +1,6 @@
 import React from 'react'
 import './Nav.scss'
+import { Link } from 'react-router-dom'
 // import { TypeAnimation } from 'react-type-animation';
 export default function Nav() {
   return (
@@ -16,19 +17,19 @@ export default function Nav() {
                     <div className="collapse navbar-collapse justify-content-end" id="collapsibleNavbar">
                         <ul className="navbar-nav">
                             <li className="nav-item p-2">
-                                <a className="nav-link" href="/">Home</a>
+                                <Link to="/Home" className='nav-link'>Home</Link>
                             </li> 
                             <li className="nav-item p-2">
-                                <a className="nav-link" href="/">About us</a>
+                                <Link to="/About" className='nav-link'>About us</Link>
                             </li> 
                             <li className="nav-item p-2">
-                                <a className="nav-link" href="/">Service</a>
+                                <Link to="/Servive" className='nav-link'>Service</Link>
                             </li> 
                             <li className="nav-item p-2">
-                                <a className="nav-link" href="/">Projects</a>
+                                <Link to="/Project" className='nav-link'>Projects</Link>
                             </li> 
                             <li className="nav-item p-2">
-                                <a className="nav-link" href="/">Contact us</a>
+                                <Link to="/Contact" className='nav-link'>Contact us</Link>
                             </li>    
                         </ul>
                     </div>  

@@ -1,6 +1,6 @@
 import React from 'react'
 import './About.scss'
-export default function About() {
+export default function About1() {
   return (
     <>
        <div className='container-fluid ' id="about-c-f">
