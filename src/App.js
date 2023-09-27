@@ -15,7 +15,8 @@ import About from "./Pages/About";
 import Servive from "./Pages/Servive";
 import Project from "./Pages/Project";
 import Contact from "./Pages/Contact";
-
+import Index from "./Component/Admin/Index";
+// import Admin from "./"
 function App() {
   return (
     <>
@@ -28,6 +29,8 @@ function App() {
           <Route path='/Servive' element={<Servive/>}/>
           <Route path='/Project' element={<Project/>}/>
           <Route path='/Contact' element={<Contact/>}/>
+          {/* <Route path='/admin' element={<Contact/>}/> */}
+          <Route path='/Admin' element={<Index/>}/>
         </Route>
       </Routes>
     </BrowserRouter>

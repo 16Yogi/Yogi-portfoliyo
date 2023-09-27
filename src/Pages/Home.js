@@ -9,6 +9,7 @@ import Work from '../Component/Work/Work'
 import Customerreview from '../Component/Customerreview/Customerreview'
 import Workstogether from '../Component/Worktogether/Workstogether'
 import Footer from '../Component/Footer/Footer'
+import Admin from '../Component/Admin/Admin'
 
 export default function Home() {
   return (
@@ -23,6 +24,7 @@ export default function Home() {
        <Customerreview/>
        <Workstogether/>
        <Footer/>
+       <Admin/>
     </>
     )
 }
