@@ -18,7 +18,7 @@ export default function Admin() {
     datafetch();
   }, []); // Add an empty dependency array to fetch data once when the component mounts
 
-  // ---------------------------------------------------
+
 
 
 //   update api 

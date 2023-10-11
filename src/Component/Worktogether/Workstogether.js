@@ -8,7 +8,7 @@ export default function Workstogether() {
   const [comment,setComment] = useState("");
 
   const senddata = async()=>{
-        try{
+    6   try{
           const user = {
             name:name,
             email:email,
@@ -34,7 +34,7 @@ export default function Workstogether() {
     const value = e.target.value;
     setEmail(value);
   };
-
+  
   const mobile1 = (e) =>{
     const value = e.target.value;
     setMobile(value);

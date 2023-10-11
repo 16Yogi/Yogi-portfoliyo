@@ -5,7 +5,9 @@ const app = express();
 
 const { mydb1 } = require("./Module");
 
-//inert ka api
+
+//********************************* Contact page *********************************************
+//insert ka api
 // Define the route for creating users send api
 Router.post("/users", async (req, res) => {
     
@@ -34,18 +36,14 @@ Router.post("/users", async (req, res) => {
 
 });
 
-// ===========================================================
 
-
-//fetch
+//fetch contact
 Router.get("/fetchdata",async(req,res)=>{
     let data = await mydb1.find();
     res.send(data);
-    // console.warn(data);
+    console.warn(data);
 });
 
-
-// =============================================================
 
 //update api (not use but imp)
 // Router.put("/update", async(req,res)=>{
@@ -65,27 +63,27 @@ Router.put("/update",async(req,res)=>{
     const data = req.body;
     const email = data.email;
     const name = data.name;
-    const mobile = data.mobile;
+    // const mobile = data.mobile;
 
-    // console.warn(email);
-    // console.warn(name);
+    console.warn(email);
+    console.warn(name);
     // console.warn(mobile);
 
    let updateData = await mydb1.updateMany(
     {Email:email},{
-        $set:{Name:name}
-        // $set:{Mobile:mobile}
+        $set:{
+            Name:name
+        }
     });
-    // console.warn(updateData);    
+    // console.warn(updateData); 
+      
     
 });
 
-
-// ================================================================
-
-
 // Delete data 
 Router.put("/delete")
+
+// ****************************************** END CONTACT *************************************
 
 
 

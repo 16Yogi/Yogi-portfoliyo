@@ -12,7 +12,7 @@ const userSchema = new Schema({
 // module.exports = { Module };
 
 
-const mydb1 = mongoose.model("yogi1", userSchema);
+const mydb1 = mongoose.model("contacts", userSchema);
 // if(mydb1){
 //     console.log("Module done");
 // }

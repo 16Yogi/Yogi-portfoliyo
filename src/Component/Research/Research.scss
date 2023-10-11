@@ -28,3 +28,9 @@
     text-transform: capitalize;
     // color: white;
 }
+
+@media (max-width:720px) and (min-width:200px) {
+    #research-c-f #research-container #research-item img{
+        height: 250px;
+    }   
+}

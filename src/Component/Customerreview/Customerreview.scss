@@ -27,3 +27,12 @@
     font-weight: 600;
     padding: 5px 0;
 }
+
+@media (max-width:920px) and (min-width:200px){
+    #customer-c-f #customer-c h3{
+        line-height:50px;
+    }
+    #customer-c-f #customer-c #cust-item-wrap #cust-item p{
+        font-size: 12px;
+    }
+}
