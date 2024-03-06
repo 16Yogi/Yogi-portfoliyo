@@ -16,6 +16,8 @@ import Servive from "./Pages/Servive";
 import Project from "./Pages/Project";
 import Contact from "./Pages/Contact";
 import Index from "./Component/Admin/Index";
+import Skills from "./Pages/Skills";
+import Problems from "./Pages/Problems";
 // import Admin from "./"
 function App() {
   return (
@@ -26,8 +28,10 @@ function App() {
           <Route path='/' element={<Home/>}/>
           <Route path='/Home' element={<Home/>}/>
           <Route path='/About' element={<About/>}/>
+          <Route path='/skills' element={<Skills/>}/>
           <Route path='/Servive' element={<Servive/>}/>
           <Route path='/Project' element={<Project/>}/>
+          <Route path="/problemsloving" element={<Problems/>}/>
           <Route path='/Contact' element={<Contact/>}/>
           {/* <Route path='/admin' element={<Contact/>}/> */}
           <Route path='/Admin' element={<Index/>}/>

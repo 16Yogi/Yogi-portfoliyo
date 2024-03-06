@@ -20,16 +20,22 @@ export default function Nav() {
                                 <Link to="/Home" className='nav-link'>Home</Link>
                             </li> 
                             <li className="nav-item p-2">
-                                <Link to="/About" className='nav-link'>About us</Link>
+                                <Link to="/About" className='nav-link'>About</Link>
                             </li> 
                             <li className="nav-item p-2">
-                                <Link to="/Servive" className='nav-link'>Service</Link>
+                                <Link to="/skills" className='nav-link'>Skills</Link>
                             </li> 
+                            <li className="nav-item p-2">
+                                <Link to="/Servive" className='nav-link'>Achievements</Link>
+                            </li>
                             <li className="nav-item p-2">
                                 <Link to="/Project" className='nav-link'>Projects</Link>
+                            </li>
+                            <li className="nav-item p-2">
+                                <Link to="/problemsloving" className='nav-link'>Problem Solving</Link>
                             </li> 
                             <li className="nav-item p-2">
-                                <Link to="/Contact" className='nav-link'>Contact us</Link>
+                                <Link to="/Contact" className='nav-link'>Hire me</Link>
                             </li>    
                         </ul>
                     </div>  

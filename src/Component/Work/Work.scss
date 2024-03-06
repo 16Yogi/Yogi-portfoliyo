@@ -13,6 +13,7 @@
 #work-c-f #work-c #work-item{
     height: auto;
     width: 100%;
+    text-align: center;
     border-radius: 10px;
     box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
 
@@ -29,4 +30,11 @@
 #work-c-f #work-c #work-item p{
     text-align: center;
     padding: 25px;
+}
+#work-c-f #work-c #work-item button{
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+#work-c-f #work-c #work-item button a{
+    text-decoration: none;
 }

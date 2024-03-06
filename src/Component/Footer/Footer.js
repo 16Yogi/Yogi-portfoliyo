@@ -23,7 +23,7 @@ export default function Footer() {
                             <h4>Social Media</h4>
                             <div className='col row'>
                                 <p><a href="https://www.facebook.com/yogendra.meravi.7" target='blank'><i class="fa-brands fa-facebook-f"></i></a></p>
-                                <p><a href="https://instagram.com/yogi._yogendra?igshid=MzMyNGUyNmU2YQ==" target='blank'><i class="fa-brands fa-instagram"></i></a></p>
+                                <p><a href="https://instagram.com/iam__yogendra_?igshid=MzMyNGUyNmU2YQ==" target='blank'><i class="fa-brands fa-instagram"></i></a></p>
                                 <p><a href="https://x.com/A_YogiYogendra?t=LXR1SjQRfJaATMbaDlacIQ&s=09" target='blank'><i class="fa-brands fa-x-twitter"></i></a></p>
                                 <p><a href="https://www.linkedin.com/in/yogendra-meravi-84333b226" target='blank'><i class="fa-brands fa-linkedin-in"></i></a></p>
                                 <p><a href="https://github.com/16Yogi" target='blank'><i class="fa-brands fa-github"></i></a></p>

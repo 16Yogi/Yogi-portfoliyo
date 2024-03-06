@@ -8,7 +8,7 @@ export default function Workstogether() {
   const [comment,setComment] = useState("");
 
   const senddata = async()=>{
-    6   try{
+       try{
           const user = {
             name:name,
             email:email,

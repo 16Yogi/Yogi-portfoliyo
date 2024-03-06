@@ -38,8 +38,13 @@
    padding-bottom: 50px;
 }
 #service-item-wrap #ser-itema h5{
-    padding: 20px 0;
+    // padding: 20px 0;
+    padding-top: 15px;
     text-align: center;
+}
+#service-item-wrap #ser-itema p{
+    // padding-top: 0;
+    font-weight: 500;
 }
 #service-item-wrap #ser-itema a{
     text-decoration: none;

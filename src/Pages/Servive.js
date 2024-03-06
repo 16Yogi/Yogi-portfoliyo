@@ -9,7 +9,7 @@ export default function Servive() {
   return (
     <>
        <Nav/>
-       <Banner2 bannerName="Our Services"/>
+       <Banner2 bannerName="My Achievements"/>
        <Service/>
        <Analysis/>
        <Footer/>
