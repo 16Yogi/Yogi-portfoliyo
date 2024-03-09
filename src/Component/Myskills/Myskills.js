@@ -97,21 +97,6 @@ export default function Myskills() {
                 </div>
             </div>
             <div className="col" id='skill-wrap'>
-                <h4>Programming Tech</h4>
-                <div className="row">
-                    <div className="col-lg-3 col-md-4 col-sm-12">
-                        <div className="col" id="skills">
-                            <p><b>Android Studio</b></p>
-                        </div>
-                    </div>
-                    <div className="col-lg-3 col-md-4 col-sm-12">
-                        <div className="col" id="skills">
-                            <p><b>Java</b></p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div className="col" id='skill-wrap'>
                 <h4>Programming Skills</h4>
                 <div className="row">
                     <div className="col-lg-3 col-md-4 col-sm-12">
@@ -146,6 +131,11 @@ export default function Myskills() {
                 <div className="row">
                     <div className="col-lg-3 col-md-4 col-sm-12">
                         <div className="col" id="skills">
+                            <p><b>Adobe XD</b></p>
+                        </div>
+                    </div>
+                    <div className="col-lg-3 col-md-4 col-sm-12">
+                        <div className="col" id="skills">
                             <p><b>Adobe Photoshop</b></p>
                         </div>
                     </div>
@@ -158,7 +148,7 @@ export default function Myskills() {
                         <div className="col" id="skills">
                             <p><b>Figma</b></p>
                         </div>
-                    </div>
+                    </div>  
                 </div>
             </div>
             <div className="col" id='skill-wrap'>

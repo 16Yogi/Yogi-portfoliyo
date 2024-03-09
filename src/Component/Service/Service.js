@@ -8,7 +8,7 @@ export default function Service() {
             <div className='container' id="service-c">
                 <h3 className=''>My Education</h3>
                 {/* <p>Share your services or product offerings here. Present them as simple headers that can lead out to their pages where you can expound on them further. You can also use this space for other purposes where the information is best presented as mere teasers to other individualized pages.</p> */}
-                <p>We are providing services for web development, software development and App development for Android devices.</p>
+                <p>Here I am providing infromation about my schooling and collage study.</p>
                 <div className='row py-4'>
                     <div className='col-lg-3 col-md-4 col-sm-12 my-3'>
                         <div className='col p-0' id="service-item-wrap">
@@ -75,12 +75,12 @@ export default function Service() {
                 </div>
                 <div className="col px-0 py-5">
                     <h3 className=''>Certificates</h3>
-                    <p className=''>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corrupti, natus!</p>
+                    <p className=''>There is my all Certificates, about Internship and paraticipating any hackthon event. </p>
                     <div className="row py-4 ">
-                        <div className="col-lg-4 col-md-6 col-sm-12 mx-auto">
+                        <div className="col-lg-4 col-md-6 col-sm-12 mx-auto mt-5">
                             <div className='col p-0' id="service-item-wrap">
                                 <div className='col-12 p-0' id="ser-item">
-                                    <img src="https://images.pexels.com/photos/1181332/pexels-photo-1181332.jpeg?auto=compress&cs=tinysrgb&w=600" alt=''/>
+                                    <img src="https://www.hrkatha.com/wp-content/uploads/2020/06/Internshala.png" alt=''/>
                                 </div>
                                 <div className='col-12' id="ser-itema">
                                     {/* <h5>Research & Planning</h5> */}
@@ -94,10 +94,10 @@ export default function Service() {
                                 </div>
                             </div>
                         </div>
-                        <div className="col-lg-4 col-md-6 col-sm-12 mx-auto">
+                        <div className="col-lg-4 col-md-6 col-sm-12 mx-auto mt-5">
                             <div className='col p-0' id="service-item-wrap">
                                 <div className='col-12 p-0' id="ser-item">
-                                    <img src="https://images.pexels.com/photos/1181332/pexels-photo-1181332.jpeg?auto=compress&cs=tinysrgb&w=600" alt=''/>
+                                    <img src="https://i.pinimg.com/originals/7d/89/0a/7d890aaa5aa84a684ffccfcbfbce817a.png" alt=''/>
                                 </div>
                                 <div className='col-12' id="ser-itema">
                                     {/* <h5>Research & Planning</h5> */}
@@ -107,15 +107,15 @@ export default function Service() {
                                     <p className='p-0 m-0'>Experience - 6 month</p>
                                     {/* <p className='p-0 m-0'>Result - 88%</p> */}
                                     <div className="col px-0 mt-3">
-                                        <a href="https://beangates.com/BG_Academy/"><button className='btn d-block mx-auto bg-info'>Visit Here</button></a>
+                                        <a href="https://academy.beangates.com/"><button className='btn d-block mx-auto bg-info'>Visit Here</button></a>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        <div className="col-lg-4 col-md-6 col-sm-12 mx-auto">
+                        <div className="col-lg-4 col-md-6 col-sm-12 mx-auto mt-5">
                             <div className='col p-0' id="service-item-wrap">
                                 <div className='col-12 p-0' id="ser-item">
-                                    <img src="https://images.pexels.com/photos/1181332/pexels-photo-1181332.jpeg?auto=compress&cs=tinysrgb&w=600" alt=''/>
+                                    <img src="https://www.online-tech-tips.com/wp-content/uploads/2023/04/snapchat-1.jpeg" alt=''/>
                                 </div>
                                 <div className='col-12' id="ser-itema">
                                     {/* <h5>Research & Planning</h5> */}

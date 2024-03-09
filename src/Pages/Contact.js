@@ -8,7 +8,7 @@ export default function Contact() {
   return (
     <>
       <Nav/>
-      <Banner2 bannerName="Contact Us"/>
+      <Banner2 bannerName="In Touch"/>
       <Workstogether/>
       <Footer/>
     </>

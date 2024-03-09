@@ -22,9 +22,10 @@ export default function Banner() {
             <div className='container-fluid' id="banner-wrap">
                 <div className='container'>
                     <div className='col-lg-6 col-md-6 col-sm-12' id="banner-item">
-                        <h2><TextTransition springConfig={presets.wobbly}>{TEXTS[index % TEXTS.length]}I'm Yogendra Meravi !</TextTransition></h2>
-                        {/* <p>We do all the research, strategy, design, and execution so you can focus on your product.</p> */}
-                        <p>I am full stack web devloper. I have skills in programming languages and Android Development.</p>
+                      <h2><TextTransition springConfig={presets.wobbly}>{TEXTS[index % TEXTS.length]}I'm Yogendra Meravi !</TextTransition></h2>
+                      {/* <p>We do all the research, strategy, design, and execution so you can focus on your product.</p> */}
+                      {/* <p>I am full stack web devloper. I have skills in programming languages and Android Development.</p> */}
+                      <p><>Development | UI & UX | Creativity</></p>
                     </div>
                 </div>
             </div>
