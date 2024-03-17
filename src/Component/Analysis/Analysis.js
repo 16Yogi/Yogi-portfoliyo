@@ -16,7 +16,7 @@ export default function Analysis() {
                     <div className='col-lg-6 col-md-6 col-sm-12'>
                         <div className='col' id="analysis-item">
                             <h3>Experience in Development</h3>
-                            <p>I have 2 year 6 month Experience in development.</p>
+                            <p>I have 2.5 year Experience in development.</p>
                             <p><b>Email:</b> yogendrameravis@gmail.com</p>
                             <a href="mailto:yogendrameravis@gmail.com" target='blank'><button className='btn btn-info'><i class="fa-solid fa-envelope"></i> Send me</button></a>
                         </div>

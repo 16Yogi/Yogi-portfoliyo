@@ -20,7 +20,8 @@ export default function Customerreview() {
                                 </div>
                                 <div className='col-8'>
                                     <h6>Development</h6>
-                                    <p>I am good to go for development. with my programming skills and experience I build good web application, mobile app, chatbot etc. </p>
+                                    <p> I've keep interest in development and with my programming skills and Experience. I can make your dream website & App into reality</p>
+                                    {/* <p>I am good to go for development. with my programming skills and experience I build good web application, mobile app, chatbot etc. </p> */}
                                     {/* <p>Boost your product and service's credibility by adding testimonials from your clients. People love recommendations so feedback from others who've tried it is invaluable.</p> */}
                                 </div>
                             </div>
@@ -32,7 +33,7 @@ export default function Customerreview() {
                                 </div>
                                 <div className='col-8'>
                                     <h6>DSA</h6>
-                                    <p>I have knowledge in DSA. DSA give me  problem solving skills. I am good in DSA.</p>
+                                    <p>I have knowledge in DSA. DSA givews me problem-solving skills.</p>
                                     {/* <p>Boost your product and service's credibility by adding testimonials from your clients. People love recommendations so feedback from others who've tried it is invaluable.</p> */}
                                 </div>
                             </div>
@@ -44,7 +45,8 @@ export default function Customerreview() {
                                 </div>
                                 <div className='col-8'>
                                     <h6>UI & UX</h6>
-                                    <p>I am good in UI and UX. I am good to use UI development tools. UI and UX skills provide me creativity in my development.</p>
+                                    <p>UI & UX provides me with tools that help me create my creativity into reality. </p>
+                                    {/* <p>I am good in UI and UX. I am good to use UI development tools. UI and UX skills provide me creativity in my development.</p> */}
                                     {/* <p>Boost your product and service's credibility by adding testimonials from your clients. People love recommendations so feedback from others who've tried it is invaluable.</p> */}
                                 </div>
                             </div>

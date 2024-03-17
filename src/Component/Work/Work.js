@@ -67,7 +67,7 @@ export default function Work() {
                     <div className='col-lg-4 col-md-6 col-sm-12' id="work-item-wrap">
                         <div className='col p-0' id="work-item">
                             <img src="https://i.pinimg.com/originals/69/6a/7d/696a7d780117bd4752def26c04bd8428.png" alt=""></img>
-                            <p><b>My Shoues</b></p>
+                            <p><b>My Shoes</b></p>
                             <button className="btn btn-info"><a href="https://myshoues.netlify.app" className='text-white' target='blank'>Click Here</a></button>
                         </div>
                     </div>
@@ -81,7 +81,7 @@ export default function Work() {
                     <div className='col-lg-4 col-md-6 col-sm-12' id="work-item-wrap">
                         <div className='col p-0' id="work-item">
                             <img src="https://i.pinimg.com/originals/9b/99/c8/9b99c895f2ffeab8fbe5d355c6f8ad62.jpg" alt=""></img>
-                            <p><b>My Protpoliyo</b></p>
+                            <p><b>My Portfolio</b></p>
                             <button className="btn btn-info"><a href="https://yogendrameravi.netlify.app/" className='text-white' target='blank'>Click Here</a></button>
                         </div>
                     </div>

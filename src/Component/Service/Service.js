@@ -8,7 +8,7 @@ export default function Service() {
             <div className='container' id="service-c">
                 <h3 className=''>My Education</h3>
                 {/* <p>Share your services or product offerings here. Present them as simple headers that can lead out to their pages where you can expound on them further. You can also use this space for other purposes where the information is best presented as mere teasers to other individualized pages.</p> */}
-                <p>Here I am providing infromation about my schooling and collage study.</p>
+                {/* <p>Here I am providing infromation about my schooling and collage study.</p> */}
                 <div className='row py-4'>
                     <div className='col-lg-3 col-md-4 col-sm-12 my-3'>
                         <div className='col p-0' id="service-item-wrap">
@@ -17,7 +17,7 @@ export default function Service() {
                             </div>
                             <div className='col-12' id="ser-itema">
                                 {/* <h5>Research & Planning</h5> */}
-                                <h5 className=''>High Shcool (10th)</h5>
+                                <h5 className=''>High School (10th)</h5>
                                 <p className='p-0 m-0'>MP Board</p>
                                 <p className='p-0 m-0'>Year - 2017-18</p>
                                 <p className='p-0 m-0'>Result - 88%</p>
@@ -31,7 +31,7 @@ export default function Service() {
                             </div>
                             <div className='col-12' id="ser-itema">
                                 {/* <h5>Content</h5> */}
-                                <h5 className=''>High Sec. Shcool (12th)</h5>
+                                <h5 className=''>Intermediate (12th)</h5>
                                 <p className='p-0 m-0'>MP Board</p>
                                 <p className='p-0 m-0'>Year - 2019-20</p>
                                 <p className='p-0 m-0'>Result - 80.4%</p>
@@ -47,7 +47,7 @@ export default function Service() {
                             </div>
                             <div className='col-12' id="ser-itema">
                                 {/* <h5>Analytics</h5> */}
-                                <h5 className=''>B.Voc in SD</h5>
+                                <h5 className=''>B.Voc in Software Development</h5>
                                 <p className='p-0 m-0'>IGNTU</p>
                                 <p className='p-0 m-0'>Year - 2020-23</p>
                                 <p className='p-0 m-0'>Result - 9.98CGPA</p>
@@ -75,7 +75,7 @@ export default function Service() {
                 </div>
                 <div className="col px-0 py-5">
                     <h3 className=''>Certificates</h3>
-                    <p className=''>There is my all Certificates, about Internship and paraticipating any hackthon event. </p>
+                    <p className=''>These are all the Certifications I've done</p>
                     <div className="row py-4 ">
                         <div className="col-lg-4 col-md-6 col-sm-12 mx-auto mt-5">
                             <div className='col p-0' id="service-item-wrap">
